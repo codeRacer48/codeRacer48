@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @codeRacer48
+- 👀 I’m interested in software engineering
+- 🌱 I’m currently learning advanced data structures in Java and starting C++
+- 💞️ I’m looking to collaborate on fun projects!
+- 📫 How to reach me: Email - pcbdrums247@gmail.com
